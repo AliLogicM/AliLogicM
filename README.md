@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **about cloud tecnologies**
 
-- ⚡ Fun fact **I love anime and videogames**
+- ⚡ Fun fact **I like anime and videogames**
   
 - 💖 I’m in love with **Hard dance Music**
 
