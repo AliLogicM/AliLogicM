@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate IA developer from México</h3>
+<h3 align="center">A passionate AI developer from México</h3>
 <p align="center">
 <a href="https://app.daily.dev/alilm2000"><img src="https://api.daily.dev/devcards/c07f52ed88004eb2bb5bf55d4483bcfb.png?r=4ps" width="400" alt="Ali Adrian Lopez Martinez's Dev Card"/></a>
 </p>
